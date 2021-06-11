@@ -360,7 +360,7 @@ wcwidth==0.1.7
 WeasyPrint==50
 webencodings==0.5.1
 websocket-client==0.48.0
-websockets==8.1
+websockets==9.1
 Werkzeug==0.14.1
 widgetsnbextension==3.4.2
 win-inet-pton==1.1.0
